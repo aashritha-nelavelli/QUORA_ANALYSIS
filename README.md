@@ -1,13 +1,12 @@
 # QUORA ANALYSIS
 
-> ![QUORA ANALYSIS](QUORA.jpg)
+> ![QUORA ANALYSIS](IMG.jpg)
 
 ## Introduction
 The main focus of this project is to analyze text and extract new features to identify similarity among a pair of questions.
 
 ## Business Problem
 <p>Quora is an online Q&A platform where multiple questions with the same intent are often asked. To improve user experience, Quora aims to identify similar question pairs in order to reduce duplicate content and provide better content recommendations.</p>
-It is clear that this is a binary classification problem .
 
 ## (3) Dataset
 > https://www.kaggle.com/competitions/quora-question-pairs/data</br>
@@ -47,7 +46,7 @@ Import libraries —> Load the dataset —> Exploratory Data Analysis —> Featu
 ## Implementation
 The project has been implemented using Python </br>
 It is available in this repository </br>
-> [Jupyter Notebook](https://github.com/YaminiAne/Human-Emotion-Recognition-Using-Twitter-Sentiment-Analysis/blob/main/Human%20Emotion%20Recognition%20Using%20Twitter%20Sentiment%20Analysis.ipynb) </br>
+> [Jupyter Notebook](https://github.com/aashritha-nelavelli/QUORA_ANALYSIS/blob/main/quorafile.ipynb) </br>
 
 Hope this repository was helpful! </br>
 Do star the repository incase you liked it. </br>
