@@ -8,7 +8,7 @@ The main focus of this project is to analyze text and extract new features to id
 ## Business Problem
 <p>Quora is an online Q&A platform where multiple questions with the same intent are often asked. To improve user experience, Quora aims to identify similar question pairs in order to reduce duplicate content and provide better content recommendations.</p>
 
-## (3) Dataset
+## Dataset
 > https://www.kaggle.com/competitions/quora-question-pairs/data</br>
 <p> The dataset used for this analysis is publicly available on Kaggle. It contains 6 columns; ‘id’, ‘qid1’, ‘qid2’, ‘question1’, ‘question2’ and ‘is_duplicate’. 
 
