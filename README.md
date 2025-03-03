@@ -46,7 +46,7 @@ Import libraries —> Load the dataset —> Exploratory Data Analysis —> Featu
 ## Implementation
 The project has been implemented using Python </br>
 It is available in this repository </br>
-> [Jupyter Notebook](https://github.com/aashritha-nelavelli/QUORA_ANALYSIS/blob/main/quorafile.ipynb) </br>
+> [Jupyter Notebook](https://github.com/aashritha-nelavelli/Quora_Analysis/blob/main/quorafile.ipynb) </br>
 
 Hope this repository was helpful! </br>
 Do star the repository incase you liked it. </br>
